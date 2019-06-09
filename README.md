@@ -7,3 +7,7 @@ Inspired by [DiagramMachineLearning](https://github.com/programming-book-practic
 > - matplotlib
 > - numpy
 > - jupyter
+
+
+### Reference
+[numpy-user-guide-zh](https://github.com/bat67/numpy-user-guide-zh)
